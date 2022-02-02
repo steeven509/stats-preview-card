@@ -13,13 +13,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 -   [Author](#author)
 
 ## Overview
-![](./images/solution.png)
 
+![](./images/solution.png)
 
 ### Links
 
--   Solution URL: [Github code source ](https://your-solution-url.com)
--   Live Site URL: [website](https://your-live-site-url.com)
+-   Solution URL: [Github code source ](https://github.com/steeven509/stats-preview-card)
+-   Live Site URL: [website](https://steeven509.github.io/stats-preview-card/)
 
 ## My process
 
@@ -29,7 +29,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 -   CSS custom properties
 -   Flexbox
 -   CSS Grid
-
 
 ### What I learned
 
@@ -61,8 +60,7 @@ EXEMPLE :
 
 C'est le lien:
 
--  [CSS tricks](https://css-tricks.com/almanac/properties/b/background-blend-mode/)
-
+-   [CSS tricks](https://css-tricks.com/almanac/properties/b/background-blend-mode/)
 
 ### Useful resources
 
@@ -73,4 +71,4 @@ C'est le lien:
 ## Author
 
 -   Frontend Mentor - [@steven](https://www.frontendmentor.io/profile/yourusername)
--   Twitter - [@steven](https://www.twitter.com/yourusername)
+-   Linkedin - [@steven](https://www.linkedin.com/in/steeven-cadeau-049433194/)
